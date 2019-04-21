@@ -1,4 +1,4 @@
-![ScreenShot](https://github.com/BrondoL/Infix2Postfix_Evaluation/blob/master/ScreenShot/SS.png)
+![ScreenShot](https://raw.githubusercontent.com/BrondoL/Infix2Postfix_Evaluation/master/ScreenShot/SS.png)
 
 # Daftar Anggota Kelompok
 
@@ -22,4 +22,4 @@ Berikan komentar di file cpp yang anda kirimkan link github kelompok anda.
 
 ## Don't copy this code without give me the credits, nerd !
 
-### Please Contact @auliaahmadnabil for copy this code !
+### Please Contact [@auliaahmadnabil](https://www.instagram.com/auliaahmadnabil/) for copy this code !
